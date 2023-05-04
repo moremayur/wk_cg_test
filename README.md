@@ -10,3 +10,7 @@ Pull Request by Mayur --
 creating 4 th pr and merging it to the main brnach
 
 Adding comment by Darpan Mistry
+
+Testing Merge activity by M; ## Adding ';' as per the comment ##
+
+New PR -- Open
